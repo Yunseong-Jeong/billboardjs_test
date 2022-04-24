@@ -1,2 +1,2 @@
-# billbordjs_test
-test for billbord.js
+# billboardjs_test
+test for billboard.js
