@@ -1,4 +1,4 @@
-import "billboard.js/dist/theme/insight.css";
+//import "billboard.js/dist/theme/insight.css";
 import bb from "billboard.js";
 
 bb.generate({
