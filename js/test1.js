@@ -1,8 +1,4 @@
 //import "billboard.js/dist/theme/insight.css";
-import "billboard.js"
-import "billboard.js/dist/"
-import bb from "billboard.js";
-
 var chart = bb.generate({
     data: {
         columns:[
